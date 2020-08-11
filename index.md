@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/AlexFroio/iamalexfroio.git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![alt text](https://github.com/AlexFroio/iamalexfroio.github.io/blob/gh-pages/howHorrifying.png "This is horrifying")
+![alt text](/howHorrifying.png "This is horrifying")
 
 ### Markdown
 
