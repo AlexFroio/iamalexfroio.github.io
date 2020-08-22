@@ -1,10 +1,12 @@
-## Welcome to Duke's sick ass page
+## Alexandre Hernandez Froio
 
-I edited this my fucking self in minutes.
+[LinkedIn](https://www.linkedin.com/in/alexhfroio/)
 
-You didn't hire me? FUCK YOU.
-
-![alt text](howHorrifying.png "This is horrifying")
+    B.S. in Electrical Engineering (3.2 GPA)
+    RIT(Rochester Institute of Technology) 
+    Rochester, NY, USA
+    Aug. 2013 - Dec. 2018
+   
 
 ### Dame Da Ne
 
@@ -15,6 +17,3 @@ FUK
 
 1. Numbered
 2. List
-
-```
-Michael Reeves thinks limit switches are whack, but actually he's fuckin whack, bro.
