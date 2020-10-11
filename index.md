@@ -2,13 +2,13 @@
 
 [LinkedIn](https://www.linkedin.com/in/alexhfroio/) | [GitHub](https://github.com/AlexFroio) | []()
 
-Education
+### Education
     B.S. in Electrical Engineering (3.2 GPA)
     RIT(Rochester Institute of Technology) 
     Rochester, NY, USA
     Aug. 2013 - Dec. 2018
     
-Skills
+### Skills
     Hardware-
         Oscilloscope, Multimeter, Function Generator, DC power supplies, Waveform generators, Spectrum Analyzers, Network Analyzers, 3D printing, Laser Cutter
     Software-
@@ -18,7 +18,7 @@ Skills
     Other=
 	    Agile, Git, SVN, SPI, I2C, RS-232, CAN, BLE, ARM
 
-Experience
+### Experience
     Embedded Software Engineer
     Hillrom
     Skaneateles Falls, NY, USA
@@ -44,7 +44,7 @@ Experience
         - Taught undergraduate students concepts of Circuits, PSPICE, VHDL, Verilog HDL and FPGAs.
         - Debugged common programming errors in VHDL and Verilog HDL on DE0-NANO Cyclone IV FPGA boards
 
-Volunteer Work
+### Volunteer Work
 
     Director of Tech and Operations
     CEA(Collegiate Esports Association)
@@ -56,12 +56,3 @@ Volunteer Work
         Personally interviewed the entire staff list of 30+ volunteers.
         Designed and maintained Overlay tech and Discord role management Bot.
 
-### Dame Da Ne
-
-FUK 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
