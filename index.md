@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/alexhfroio/) | [GitHub](https://github.com/AlexFroio) | []()
 
 ### Education
-    B.S. in Electrical Engineering (3.2 GPA)
+    B.S. in Electrical Engineering
     RIT(Rochester Institute of Technology) 
     Rochester, NY, USA
     Aug. 2013 - Dec. 2018
