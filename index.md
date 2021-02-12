@@ -2,11 +2,14 @@
 
 [LinkedIn](https://www.linkedin.com/in/alexhfroio/) | [GitHub](https://github.com/AlexFroio) | []()
 
-### Education
-    B.S. in Electrical Engineering
-    RIT(Rochester Institute of Technology) 
-    Rochester, NY, USA
-    Aug. 2013 - Dec. 2018
+## Education
+B.S. in Electrical Engineering
+
+RIT(Rochester Institute of Technology) 
+
+Rochester, NY, USA
+
+Aug. 2013 - Dec. 2018
     
 ### Skills
     Hardware-
