@@ -1,4 +1,3 @@
-# Alexandre Hernandez Froio
 
 [LinkedIn](https://www.linkedin.com/in/alexhfroio/) | [GitHub](https://github.com/AlexFroio) | []()
 
