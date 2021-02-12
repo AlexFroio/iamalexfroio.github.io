@@ -21,7 +21,7 @@ C, C++, C#, Rust, Python, Assembly, CSS, JSON, LaTeX, Verilog HDL, XML, PSPICE, 
 ### Languages-
 Fluent in English, Spanish and Portuguese
 
-###Other-
+### Other-
 Agile, Git, SVN, SPI, I2C, RS-232, CAN, BLE, ARM
 
 ## Experience
