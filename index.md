@@ -38,6 +38,7 @@ Skaneateles Falls, NY, USA
 
 ### Firmware and Applications Software Engineer
 **Multidisciplinary Senior Design**
+
 Rochester, NY, USA
 
 **Aug. 2017 - May. 2018**
@@ -51,6 +52,7 @@ Rochester, NY, USA
 
 ### Director of Tech and Operations
 **CEA(Collegiate Esports Association)** [ceahub.gg](https://ceahub.gg)
+
 Syracuse, NY
 
 **Jan. 2019 - Dec.2020 (2 years experience)**
