@@ -34,7 +34,7 @@ Skaneateles Falls, NY, USA
 * Ported and upgraded C90 code to C99, and implemented bootloader for system recovery.
 * Skunkworks on a raspberry pi modular camera platform.
 * Ported a complex system synchronized via event groups, mutexes and semaphores to secure safe, accurate readings of patient vitals (FreeRTOS).
-* Developed internal use l;ibrary for transferring patient data to cloud storage.
+* Developed internal use library for transferring patient data to cloud storage.
 
 ### Firmware and Applications Software Engineer
 **Multidisciplinary Senior Design**
