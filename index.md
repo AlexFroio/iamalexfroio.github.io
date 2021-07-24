@@ -34,7 +34,7 @@ Skaneateles Falls, NY, USA
 * Ported and upgraded C90 code to C99, and implemented bootloader for system recovery.
 * Skunkworks on a raspberry pi modular camera platform.
 * Ported a complex system synchronized via event groups, mutexes and semaphores to secure safe, accurate readings of patient vitals (FreeRTOS).
-* Updated department data collection and analysis procedures to leverage cloud services.
+* Developed internal use l;ibrary for transferring patient data to cloud storage.
 
 ### Firmware and Applications Software Engineer
 **Multidisciplinary Senior Design**
@@ -47,6 +47,21 @@ Rochester, NY, USA
 * Programmed Android app to receive said BLE signals for data collection from an ARM processor
 * Oversaw hardware design, documentation and assembly of wearable, including custom PCBs.
 
+## Projects
+### EEG Serial Reader Library
+#### HARDWARE HACKING, C++
+Designed and Implemented a library to read Serial TX lines from a Star Wars toy making use of a Neurosky EEG TGATs. Reads back EEG
+signals to a host device.
+### Ported code from Renesas H8S, ThreadX to an ARM M0 core and FreeRTOS
+#### EMBEDDED SOFTWARE PORT, C
+Ported a medical sensor module from ThreadX into FreeRTOS including a full asynchronous comms task and 1:1 interface to sensors.
+Implemented a complex task scheduling system complete with mutexes, semaphores and event groups for data protection and
+proper use of peripheral sensors.
+
+### Patient Data Transfer API
+#### CLOUD API, PYTHON
+Designed and implemented an API for automatic processing and transfering of existing public patient databases (PhysioNet/MIMIC-III).
+Includes methods for searching patient IDs,
 
 ## Volunteer Work
 
@@ -55,10 +70,9 @@ Rochester, NY, USA
 
 Syracuse, NY
 
-**Jan. 2019 - Dec.2020 (2 years experience)**
+**Jan. 2019 - Jan.2021 (2 years experience)**
 * Oversaw day-to-day operations of Collegiate R6S Tournament catering to 140 teams, over 3 seasons.
 * Oversaw production of matches for broadcast on Twitch to over 40,000 viewers.
 * Managed the development and production of a website for team management hosted on AWS
 * Maintained live database schema in postgreSQL for the website.
-* Personally interviewed the entire staff list of 30+ volunteers.
-* Designed and maintained overlays for production streams built in ASP.NET
+* Setup CI/CD website pipeline deployment. 
